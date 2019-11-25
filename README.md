@@ -1,3 +1,4 @@
 # Information-security-Lab
-course of information security /t
+course of information security
+
 Provide by Jones & Bartlett Learning
